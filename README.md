@@ -1,4 +1,5 @@
 # raspi-temp
+# Just preserving this repo as it's a simple Py script but had some environmental issues getting it to run.
 
 Figure it out for yourself, my lad,
 You've all that the greatest of men have had,
